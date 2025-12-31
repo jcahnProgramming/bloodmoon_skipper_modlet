@@ -5,5 +5,5 @@
     <Description value="Adds a console command to skip the next blood moon with democratic voting in multiplayer"/>
     <Author value="Path"/>
     <Version value="2.5.0"/>
-    <Website value=""/>
+    <Website value="https://github.com/jcahnProgramming/bloodmoon_skipper_modlet"/>
 </ModInfo>
