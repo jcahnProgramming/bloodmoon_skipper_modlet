@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModInfo>
+    <Name value="BloodMoonSkipper"/>
+    <DisplayName value="Blood Moon Skipper"/>
+    <Description value="Adds a console command to skip the next blood moon with democratic voting in multiplayer"/>
+    <Author value="Path"/>
+    <Version value="2.5.0"/>
+    <Website value=""/>
+</ModInfo>
